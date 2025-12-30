@@ -1,0 +1,8 @@
+# Specific directories
+**/.vs/
+**/Debug/
+
+# Specific files
+*.exe
+*.pdb
+*.vcxproj.user
