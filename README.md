@@ -1,4 +1,4 @@
-# SCNU_ProgrammingLanguage
+# SCNU_Programming_Language
 
 ## Overview
 + Includes example codes and programming solutions from the book 「쉽게 풀어쓴 C언어 Express - 생능」
